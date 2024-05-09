@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ac689fd1-9d6f-4e76-a05b-7434af8c7a24</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>atividade8.py</StartupFile>
+    <StartupFile>atividade10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="atividade1.py" />
+    <Compile Include="atividade10.py" />
+    <Compile Include="atividade14.py" />
     <Compile Include="atividade2.py" />
     <Compile Include="atividade3.py" />
     <Compile Include="atividade4.py" />
@@ -29,6 +31,7 @@
     <Compile Include="atividade6.py" />
     <Compile Include="atividade7.py" />
     <Compile Include="atividade8.py" />
+    <Compile Include="atividade9.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
