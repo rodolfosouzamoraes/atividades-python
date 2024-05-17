@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ac689fd1-9d6f-4e76-a05b-7434af8c7a24</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>atividade20.py</StartupFile>
+    <StartupFile>atividade22.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -34,6 +34,8 @@
     <Compile Include="atividade19.py" />
     <Compile Include="atividade2.py" />
     <Compile Include="atividade20.py" />
+    <Compile Include="atividade21.py" />
+    <Compile Include="atividade22.py" />
     <Compile Include="atividade3.py" />
     <Compile Include="atividade4.py" />
     <Compile Include="atividade5.py" />
