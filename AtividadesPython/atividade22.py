@@ -13,6 +13,8 @@ UM POLÍGONO;
 Caso o número de lados seja superior a 5 escrever 
 POLÍGONO NÃO IDENTIFICADO.
 """
+
+
 print("Informe o número de lados: ")
 lados = int(input())
 if lados == 3:
